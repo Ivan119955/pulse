@@ -40,6 +40,13 @@
         text-align: center;
         color: #0d0d0d;
     }
+    .error {
+        border: 1px solid red;
+    }
+    label.error {
+        border: none;
+        text-align: center;
+    }
 }
 
 #consultation, #order, #thanks {
